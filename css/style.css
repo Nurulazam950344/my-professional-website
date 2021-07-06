@@ -1,0 +1,67 @@
+<style>
+
+h1{
+    color: hsla(161, 19%, 39%, 0.884);
+
+    }
+    p{
+     color: red; width: 75%;
+    height: 75%;font-size: 25px;
+    }
+    #murgi{
+        font-size: 30px;
+        color:blue;
+        background-color: tomato;
+    
+        
+    }
+    .romantic{
+        color:rgb(77, 226, 90)
+    }
+
+    h1.friend{
+        background-color: yellow;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .friend{
+        font-size: 40px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    img{
+        width: 60%;
+        height: 50%;
+    }
+    .blog{
+        background-color: gold;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    p{
+        text-align: center;
+        text-align: justify;
+    }
+    #saj{
+        font-size: 80px;
+    }
+    .blog{
+        border: 5px greenyellow;
+    }
+    .goru{
+        border: 5px solid purple;
+        border-radius: 50px;
+        margin: 1%;
+        width: 30%;
+        display: inline-block;
+        padding: 1px;
+
+
+         }
+    h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+
+
+</style>
